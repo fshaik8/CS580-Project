@@ -1,0 +1,3 @@
+• Implemented a hash-based join algorithm to evaluate join queries between two relations, utilizing hash maps for rapid tuple access and ensuring accurate joins by matching tuples based on common attributes.
+• Implemented a sophisticated line join algorithm using a simplified Yannakakis approach to process up to 10-line joins in optimal O(N + OUT) time, ensuring consistency and efficiency by structuring data processing through a systematic join tree.
+• Designed a sequential join algorithm to handle multiple relations linearly, enhancing query processing by applying hash joins incrementally across relational pairs, which streamlined the join process and reduced computational overhead.
